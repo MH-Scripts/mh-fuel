@@ -5,19 +5,19 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/MaDHouSe79/mh-fuel/issues">
-        <img src="https://img.shields.io/github/issues/MaDHouSe79/mh-fuel"/>  </a>
-    <a href="https://github.com/MaDHouSe79/mh-fuel/watchers">
-        <img src="https://img.shields.io/github/watchers/MaDHouSe79/mh-fuel"/> 
+    <a href="https://github.com/MH-Scripts/mh-fuel/issues">
+        <img src="https://img.shields.io/github/issues/MH-Scripts/mh-fuel"/>  </a>
+    <a href="https://github.com/MH-Scripts/mh-fuel/watchers">
+        <img src="https://img.shields.io/github/watchers/MH-Scripts/mh-fuel"/> 
     </a> 
-    <a href="https://github.com/MaDHouSe79/mh-fuel/network/members">
-        <img src="https://img.shields.io/github/forks/MaDHouSe79/mh-fuel"/> 
+    <a href="https://github.com/MH-Scripts/mh-fuel/network/members">
+        <img src="https://img.shields.io/github/forks/MH-Scripts/mh-fuel"/> 
     </a>  
-    <a href="https://github.com/MaDHouSe79/mh-fuel/stargazers">
-        <img src="https://img.shields.io/github/stars/MaDHouSe79/mh-fuel?color=white"/> 
+    <a href="https://github.com/MH-Scripts/mh-fuel/stargazers">
+        <img src="https://img.shields.io/github/stars/MH-Scripts/mh-fuel?color=white"/> 
     </a>
-    <a href="https://github.com/MaDHouSe79/mh-fuel/blob/main/LICENSE">
-        <img src="https://img.shields.io/github/license/MaDHouSe79/mh-fuel?color=black"/> 
+    <a href="https://github.com/MH-Scripts/mh-fuel/blob/main/LICENSE">
+        <img src="https://img.shields.io/github/license/MH-Scripts/mh-fuel?color=black"/> 
     </a>      
 </p>
 
