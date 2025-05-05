@@ -17,7 +17,6 @@ files {
     'html/assets/js/*.js',
     'html/assets/css/*.css',
     'html/assets/images/*.png',
-    'html/assets/images/shop/*.png',
     'html/assets/sounds/*.ogg',
 }
 
