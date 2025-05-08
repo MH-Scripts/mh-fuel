@@ -399,6 +399,7 @@ CreateThread(function()
                     while vehicleFueling do
                         cost = cost + math.floor((config.PriceTick / classMultiplier) * config.FuelPrice - math.random(0, 100) / 100)
                         local currentFuel = GetFuel(lastVehicle)
+                        PlayerData = QBCore.Functions.GetPlayerData()
                         if vehicleClass ~= 18 and not config.JobVehicles[PlayerData.job.name][GetEntityModel(lastVehicle)] then
                             if PlayerData.money.cash >= cost then
                                 currentFuel = math.floor(currentFuel + config.PriceTick)
